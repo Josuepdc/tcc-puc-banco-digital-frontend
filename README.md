@@ -9,3 +9,13 @@
 ## Sobre
 
 Implementação de projeto para entrega de TCC da Pós-Graduação.
+
+## Instruções de execução
+
+- Instale o NodeJS e o Yarn.
+
+- Instale o Android Studio ou o Xcode, seguindo as orientações de configuração do ambiente pelo ReactNative.
+
+- Instale as dependencias do projeto no terminal com o comando: `yarn`
+
+- Execute o projeto no terminal com o comando: `yarn android` ou `yarn ios`
